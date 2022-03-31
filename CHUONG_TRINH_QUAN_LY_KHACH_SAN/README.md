@@ -1,4 +1,4 @@
-# QUANLIKHACHSAN
+# QUANLYKHACHSAN
 Chương trình quản lý khách sạn được viết bằng ngôn ngữ C# - Đồ Án Lập Trình WinForm - Đỗ Văn Sơn - Lương Đức Sang - T3K21
 # Trang Chủ
 ```
